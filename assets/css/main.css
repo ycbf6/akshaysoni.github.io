@@ -1795,10 +1795,10 @@ input, select, textarea {
 			border-left: 0;
 			border-right: 0;
 			color: #fff;
-			color: rgba(255, 255, 255, 0.83);
+			color: rgba(255, 255, 255, 0.82);
 			font-size: 3.35em;
 			font-weight: 700;
-			line-height: 2.3em;
+			line-height: 1.3em;
 			margin: 0 0 1.5em 0;
 		}
 
